@@ -1,0 +1,19 @@
+INFO - login with valid details
+FATAL - If resource limit is reached
+ERROR - log in with invalid details and system diplays get error message 
+INFO - create account with valid details
+FATAL - If resource limit is reached
+INFO - adding product to cart
+FATAL - If resource limit is reached
+INFO - checking out the product
+FATAL - If resource limit is reached
+INFO - logging out of the website
+FATAL - If resource limit is reached
+2021 16:13:59 – If resource limit is reached
+ [main] INFO  utilities.Client 14/02/2021 16:13:59 – adding product to cart
+ [main] FATAL utilities.Client 14/02/2021 16:13:59 – If resource limit is reached
+ [main] INFO  utilities.Client 14/02/2021 16:13:59 – checking out the product
+ [main] FATAL utilities.Client 14/02/2021 16:13:59 – If resource limit is reached
+ [main] INFO  utilities.Client 14/02/2021 16:13:59 – logging out of the website
+ [main] FATAL utilities.Client 14/02/2021 16:13:59 – If resource limit is reached
+ 
