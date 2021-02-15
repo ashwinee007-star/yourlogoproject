@@ -10,7 +10,7 @@ import pages.login;
 import pages.logout;
 import utilities.Screenshot;
 
-public class tc1_logout 
+public class tc1_Dlogout 
 {
 	WebDriver driver;
 	@Given("^the user has successfully checkedout the product$")

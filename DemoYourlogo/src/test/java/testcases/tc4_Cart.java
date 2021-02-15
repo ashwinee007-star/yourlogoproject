@@ -10,7 +10,7 @@ import cucumber.api.java.en.When;
 import pages.cart;
 import pages.login;
 
-public class tc4_cart {
+public class tc4_Cart {
 	WebDriver driver;
 	@Given("^the product should be in stock$")
 	public void the_product_should_be_in_stock() throws Throwable {

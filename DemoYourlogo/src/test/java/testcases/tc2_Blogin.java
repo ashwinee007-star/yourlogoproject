@@ -8,7 +8,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import pages.login;
 
-public class tc2_login 
+public class tc2_Blogin 
 {
 	WebDriver driver;
 	@Given("^the user has created account in the website$")

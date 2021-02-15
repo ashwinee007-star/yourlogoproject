@@ -10,7 +10,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import pages.createaccount;
 
-public class tc3_createaccount 
+public class tc1_Acreateaccount 
 {
 	WebDriver driver;
 	@Given("^the user is in the create account page$")
